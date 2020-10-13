@@ -1,21 +1,21 @@
 body {
-    background-color: lightsteelblue;
+  background-color: lightsteelblue;
 }
 h1 {
-		text-align: center;
-		font-family: Verdana;
-		font-size: 50px;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 50px;
 }
 h2 {
-		text-align: center;
-		font-family: Calibri;
-		font-size: 40px;
+  text-align: center;
+  font-family: Calibri;
+  font-size: 40px;
 }
 button {
-		margin-top: 2%;
-		display: center;
-		font-family: Calibri;
-		font-size: 30px;
-		height: 100px;
-		width: 200px;
+  margin-top: 2%;
+  display: center;
+  font-family: Calibri;
+  font-size: 30px;
+  height: 100px;
+  width: 200px;
 }
